@@ -6,11 +6,51 @@ I specialize in developing integrated modeling frameworks to support adaptive ma
 
 ---
 
-## 🔬 Research Focus
-* **Ensemble Modeling:** Developing multi-model frameworks where models "talk to each other" to reduce structural uncertainty in Lake Ontario and Lake Erie.
-* **Bayesian Calibration:** Implementing Bayesian inference to quantify uncertainty and improve the fidelity of ecological forecasts.
-* **Nutrient Transport:** Analyzing phosphorus legacies and sediment diagenesis processes using SPARROW and mechanistic frameworks.
-* **Decision Support:** Building tools that translate heterogeneous monitoring data into "credible loading envelopes" for stakeholders.
+## 🚀 Strategic Research Pillars (Aligned with US CET Priorities)
+
+### I. Artificial Intelligence (AI) & Advanced Computing
+*Leveraging AI as a "scientific collaborator" to optimize environmental intelligence and resource management.*
+
+#### Multimodal AI and Sustainable Informatics
+I develop **multimodal AI models** that integrate heterogeneous data streams—structured sensors, time-series signals, drone/satellite imagery, and natural language. Aligned with the **Sustainable AI** mandate, my research focuses on model compression techniques (pruning, quantization) to enable high-performance neural networks on low-power hardware for remote, edge-based ecological monitoring.
+
+#### AI-Enabled Decision Support
+Developing basin-scale data-driven frameworks that utilize AI to identify "hot spots" and define **credible loading envelopes**. This work aligns with the CET priority for **AI-enabled decision support systems** in critical infrastructure and natural resource protection.
+
+---
+
+### II. Advanced Remote Sensing & Earth Observation
+*Developing scalable pipelines to turn Earth-observation data into actionable intelligence for climate and water security.*
+
+#### Remote Sensing-Enhanced Loading Estimation
+I build pipelines that combine satellite products, digital elevation models, and land-cover dynamics. These frameworks support event-scale and interannual load estimation, directly exploiting advances in **Earth-observation and environmental-sector sensing** prioritized on the national Critical and Emerging Technologies list.
+
+---
+
+### III. Climate & Environmental Technologies
+*Quantifying the carbon balance of terrestrial-aquatic interfaces and engineering resilient agricultural systems.*
+
+#### Analysis of Greenhouse Gas (GHG) Emissions
+My work focuses on the quantification of carbon cycling and GHG emissions across the terrestrial-aquatic continuum. By utilizing specialized tools like **HOLOS** and **APEX**, we evaluate the net climate benefits of regenerative practices, contributing to **Carbon Management** and **Net-Zero** technological goals.
+
+#### Food Security & Sustainable Agricultural Informatics
+We develop holistic crop modelling frameworks to transition toward sustainable systems. By integrating principles from agronomy and evolutionary biology, we address long-term yield stability and water quality, supporting the CET pillar for **Biotechnology and Agricultural Innovation**.
+
+---
+
+### IV. Data-Driven Social & Behavioral Sciences (SEMUs)
+*Operationalizing human–environment coupling to create socially feasible and resilient infrastructure plans.*
+
+#### Socio‑environmental Management Units (SEMUs)
+I am advancing the concept of **SEMUs**—spatial units that jointly capture clusters of socio‑economic behaviour and environmental footprints. By integrating census data and ecological indicators, we link biophysical models with land tenure and community values, aligning with national priorities for **Data-Driven Decision Making** in resilient ecosystems.
+
+---
+
+### V. Foundational Modeling & Risk Assessment
+*Upholding scientific integrity through advanced inferential techniques and the quantification of uncertainty.*
+
+#### Bayesian Risk Assessment & Ensemble Modeling
+A foundational pillar of my research is the development of robust **risk assessment** frameworks. We utilize **Bayesian approaches** to treat uncertainty as a central modeling concern, yielding posterior distributions that guide management. We are currently developing **Ensemble Modeling Strategies** where multi-model frameworks "talk to each other" to provide robust, uncertainty-bounded predictions for adaptive management.
 
 ---
 
@@ -22,6 +62,10 @@ I specialize in developing integrated modeling frameworks to support adaptive ma
 
 ---
 
+## 📊 GitHub Stats
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=gudaleon&show_icons=true&theme=nord&hide_border=true)
+
+---
 
 ## 🔗 Connect with me
 
