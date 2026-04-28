@@ -22,11 +22,17 @@ I specialize in developing integrated modeling frameworks to support adaptive ma
 
 ---
 
-## 📈 Research Impact
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=nord)
-
----
 
 ## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-neumann-6b4b4a2b/)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-3456-7890) [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](YOUR_SCHOLAR_LINK)
+
+<a href="https://www.linkedin.com/in/neumann1/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://orcid.org/0000-0003-1590-8516" target="_blank">
+  <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
+</a>
+
+<a href="https://scholar.google.ca/citations?user=v-hDAn0AAAAJ" target="_blank">
+  <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
+</a>
