@@ -33,6 +33,6 @@ I specialize in developing integrated modeling frameworks to support adaptive ma
   <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
 </a>
 
-<a href="https://scholar.google.ca/citations?user=v-hDAn0AAAAJ" target="_blank">
+<a href="https://scholar.google.ca/citations?user=BnbFwgEAAAAJ" target="_blank">
   <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar">
 </a>
