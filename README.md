@@ -1,6 +1,6 @@
 # Hi, I'm Alex Neumann 👋
 
-### Research Associate | Computational Ecology & Environmental Modeling
+### Senior Research Associate | Computational Ecology & Environmental Modeling
 
 I specialize in developing integrated modeling frameworks to support adaptive management in freshwater ecosystems. My work focuses on bridging the gap between complex biogeochemical processes and actionable environmental policy through advanced statistical techniques.
 
