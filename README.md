@@ -6,7 +6,7 @@ I specialize in developing integrated modeling frameworks to support adaptive ma
 
 ---
 
-## 🚀 Strategic Research Pillars (Aligned with US CET Priorities)
+## 🚀 Strategic Research Pillars 
 
 ### I. Artificial Intelligence (AI) & Advanced Computing
 *Leveraging AI as a "scientific collaborator" to optimize environmental intelligence and resource management.*
