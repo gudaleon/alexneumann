@@ -11,11 +11,8 @@ I specialize in developing integrated modeling frameworks to support adaptive ma
 ### I. Artificial Intelligence (AI) & Advanced Computing
 *Leveraging AI as a "scientific collaborator" to optimize environmental intelligence and resource management.*
 
-#### Multimodal AI and Sustainable Informatics
-I develop **multimodal AI models** that integrate heterogeneous data streams—structured sensors, time-series signals, drone/satellite imagery, and natural language. Aligned with the **Sustainable AI** mandate, my research focuses on model compression techniques (pruning, quantization) to enable high-performance neural networks on low-power hardware for remote, edge-based ecological monitoring.
-
 #### AI-Enabled Decision Support
-Developing basin-scale data-driven frameworks that utilize AI to identify "hot spots" and define **credible loading envelopes**. This work aligns with the CET priority for **AI-enabled decision support systems** in critical infrastructure and natural resource protection.
+Developing basin-scale data-driven frameworks that utilize AI to identify "hot spots" and define **credible loading envelopes**. This work aligns with the demand for **AI-enabled decision support systems** in critical infrastructure and natural resource protection.
 
 ---
 
@@ -23,7 +20,7 @@ Developing basin-scale data-driven frameworks that utilize AI to identify "hot s
 *Developing scalable pipelines to turn Earth-observation data into actionable intelligence for climate and water security.*
 
 #### Remote Sensing-Enhanced Loading Estimation
-I build pipelines that combine satellite products, digital elevation models, and land-cover dynamics. These frameworks support event-scale and interannual load estimation, directly exploiting advances in **Earth-observation and environmental-sector sensing** prioritized on the national Critical and Emerging Technologies list.
+I build pipelines that combine satellite products, digital elevation models, and land-cover dynamics. These frameworks support event-scale and interannual load estimation, directly exploiting advances in **Earth-observation and environmental-sector sensing** to improve watershed monitoring.
 
 ---
 
@@ -31,10 +28,10 @@ I build pipelines that combine satellite products, digital elevation models, and
 *Quantifying the carbon balance of terrestrial-aquatic interfaces and engineering resilient agricultural systems.*
 
 #### Analysis of Greenhouse Gas (GHG) Emissions
-My work focuses on the quantification of carbon cycling and GHG emissions across the terrestrial-aquatic continuum. By utilizing specialized tools like **HOLOS** and **APEX**, we evaluate the net climate benefits of regenerative practices, contributing to **Carbon Management** and **Net-Zero** technological goals.
+My work focuses on the quantification of carbon cycling and GHG emissions across the terrestrial-aquatic continuum. By utilizing specialized tools, we evaluate the net climate benefits of regenerative practices, contributing to broader **Carbon Management** and **Net-Zero** goals.
 
 #### Food Security & Sustainable Agricultural Informatics
-We develop holistic crop modelling frameworks to transition toward sustainable systems. By integrating principles from agronomy and evolutionary biology, we address long-term yield stability and water quality, supporting the CET pillar for **Biotechnology and Agricultural Innovation**.
+We develop holistic crop modelling frameworks to transition toward sustainable systems. By integrating principles from agronomy and evolutionary biology, we address long-term yield stability and water quality, supporting research in **Biotechnology and Agricultural Innovation**.
 
 ---
 
@@ -42,7 +39,7 @@ We develop holistic crop modelling frameworks to transition toward sustainable s
 *Operationalizing human–environment coupling to create socially feasible and resilient infrastructure plans.*
 
 #### Socio‑environmental Management Units (SEMUs)
-I am advancing the concept of **SEMUs**—spatial units that jointly capture clusters of socio‑economic behaviour and environmental footprints. By integrating census data and ecological indicators, we link biophysical models with land tenure and community values, aligning with national priorities for **Data-Driven Decision Making** in resilient ecosystems.
+I created and advance the concept of **SEMUs**—spatial units that jointly capture clusters of socio‑economic behaviour and environmental footprints. By integrating census data and ecological indicators, we link biophysical models with land tenure and community values, aligning with priorities for **Data-Driven Decision Making** in resilient ecosystems.
 
 ---
 
